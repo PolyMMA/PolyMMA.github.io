@@ -13,12 +13,10 @@ title: TechStuff                          # the main title
 tagline: Tech hacks and projects for the average joe and above.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A blog about this and that.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'https://polymma.github.io/'
 
 author: PolyMMA		                # change to your full name
 
@@ -31,8 +29,8 @@ twitter:
   username: twitter_username            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: PolyMMA                  # it will shows as the copyright owner in Footer
+  email: zed.zedoku@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
@@ -41,7 +39,7 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+google_site_verification: google10d43fdcf2c2fee8.html # change to your verification string
 
 #--------------------------
 
@@ -51,7 +49,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Europe/Stockholm
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
