@@ -6,7 +6,7 @@ categories: [Tutorials, Linux]
 tags: [customizing]     # TAG names should always be lowercase
 ---
 
-Recently I have started to code more than usual and finally gave in to the trend and got myself a mechanical keyboard. It landed on a [Royal Kludge 71](http://www.rkgaming.com/en-US/article.php?id=111) (budget version of [Calibur V2 TE RGB](https://www.drevo.net/product/keyboard/calibur-v2-te)?), a mechanical Bluetooth 71% keyboard. All'n'all, pretty good stuff for a good price but there were some deviating issues.
+Recently I have started to code more than usual and finally gave in to the trend and got myself a mechanical keyboard. It ended up being a [Royal Kludge 71](http://www.rkgaming.com/en-US/article.php?id=111) (budget version of [Calibur V2 TE RGB](https://www.drevo.net/product/keyboard/calibur-v2-te) perhaps?), a mechanical Bluetooth 71% keyboard. All'n'all, pretty good stuff for a good price but there were some issues, a topic that might deserve a post of its own. 
 
 Anywho... Thing is that the [layout](https://en.wikipedia.org/wiki/Keyboard_layout#Physical_layouts) is ANSI-INCITS, while in it is more common in Europe to use the ISO/IEC layout. But it is just the annotation on the keys, right? No big deal, just don't look at it... Well, that is true and for the most part it is OK. The issues arise when you use another layout than the one the physical layout is adjusted for. Especially an ISO layout on an ANSI physical keyboard. There is a key missing...
 
